@@ -8,7 +8,7 @@ This repository is a custom tap for distributing [Dynamit's](http://dynamit.com)
 
 To tap this repository in Homebrew, run the following shell command:
 
-    $ brew tap dynamit/dynamit-formulae
+    $ brew tap dynamit/homebrew-formulae
 
 ## Included Projects
 
